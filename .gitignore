@@ -1,0 +1,9 @@
+/node_modules
+/dist
+/.vscode
+.env.server.dev
+.env.server.prod
+.env.db.dev
+.env.db.prod
+.env
+demo
